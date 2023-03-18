@@ -30,4 +30,5 @@ Preventing gaming the system:
 - Periodic Audits: OSShare conducts periodic audits, both automated and manual, to identify potential abuse and ensure the integrity of the platform. Users found to be gaming the system face penalties, such as reduced shares or temporary/permanent bans.
 
 Projects using OSShare:
-Pingojo
+
+Pingojo https://github.com/pingojo/website/blob/main/OSSHARE.md
